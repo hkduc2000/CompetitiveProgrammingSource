@@ -1,0 +1,11 @@
+{
+   "C_Cpp.errorSquiggles": "Disabled",
+   "files.associations": {
+      "*.html": "html",
+      "*.cpp": "cpp",
+      "ostream": "cpp",
+      "iostream": "cpp",
+      "random": "cpp"
+   },
+   "C_Cpp.dimInactiveRegions": false
+}
